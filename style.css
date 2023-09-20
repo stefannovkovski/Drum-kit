@@ -49,3 +49,11 @@ html {
     letter-spacing: .1rem;
     color: #ffc600;
   }
+  p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: -60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
